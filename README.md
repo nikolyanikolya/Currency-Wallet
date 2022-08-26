@@ -16,7 +16,7 @@ java -classpath ./bin WalletTest
 
 …или просто откройте Intellij IDEA, добавьте “lib” (junit) в classpath → Edit configuration и настройте приложение следующим образом
 
-![Untitled](../../../../files%20forReadME/Untitled.png)
+![Untitled](ReadME/1.png)
 
 Тогда вы получите поведение, как в условии задания. Приложение завершается либо вводом некорректной команды, либо выставлением флага прерывания (ctrl + D).
 
@@ -24,7 +24,7 @@ java -classpath ./bin WalletTest
 
 Так же есть возможность запустить тесты (они находятся в WalletTest.java), проверяющие поведение функций для консольного приложения. Для этого можно опять зайти в Intellij IDEA и настроить Junit test следующий образом (в Edit configuration).
 
-![Untitled](../../../../files%20forReadME/Untitled%201.png)
+![Untitled](ReadME/2.png)
 
 Или в консоли:
 
