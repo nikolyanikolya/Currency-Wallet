@@ -1,0 +1,10 @@
+add currency dollar
+deposit 100
+add currency ruble
+set rate ruble dollar 1:60
+deposit 1 ruble
+convert 80 dollar to ruble
+withdraw 2.1 ruble
+show balance
+show total
+show total in ruble
